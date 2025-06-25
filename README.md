@@ -39,10 +39,10 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
     <summary>WakaGraphs</summary>
     <p align="center">
       <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/17d27a74-0c09-43e8-bf14-18f65aaae0c4.svg" />
+        <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/3930ba6b-9153-4426-82eb-9c48ac68b0f1.svg" />
       </a>
       <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
+        <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/169f2d72-51b9-4783-8d7f-556d3d5ba41b.svg" />
       </a>
     </p>
     <p align="center">
