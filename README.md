@@ -5,9 +5,27 @@
 * y4-5H0 is Always Open For Any Suggestion or Help. <a href="mailto: n1n7u70@duck.com"> Mail! </a>
 
 
-## Profile Status:
+<!-- ## Profile Status:
 [![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/y4-5H0)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=y4-5H0&show_icons=true&locale=en&theme=algolia)](https://github.com/y4-5H0)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=y4-5H0&show_icons=true&locale=en&theme=algolia)](https://github.com/y4-5H0) -->
+
+
+
+  <summary><b>Github Stats</b></summary>
+  <a href="https://github.com/y4-5H0">
+    <img alt="y4-5H0/graph" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true">
+  </a>
+  <a href="https://github.com/y4-5H0">
+    <img alt="y4-5H0/stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  </a>
+  <a href="https://github.com/search?q=user:y4-5H0&type=code">
+    <img alt="y4-5H0/languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  </a>
+  <a href="https://github.com/search?q=author:y4-5H0&type=commits">
+    <img alt="y4-5H0/streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=y4-5H0&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
+  </a>
+
+
 
 
 <details>
