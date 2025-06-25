@@ -25,9 +25,6 @@
     <img alt="y4-5H0/streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=y4-5H0&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
   </a>
 
-
-
-
 <details>
   <summary><b>WakaTime Stats</b></summary>
   <details>
