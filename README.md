@@ -36,28 +36,26 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
 <details>
   <summary><b>⏱️ WakaTime Stats</b></summary>
   <details>
-    <summary>📈 WakaGraphs</summary>
+    <summary>WakaGraphs</summary>
     <p align="center">
-      <a href="https://wakatime.com/@y4_5H0">
-        <img alt="Coding Activity" width="400" height="300" src="https://wakatime.com/badge/user/5ef1dd4a-b32a-4e42-898a-542ce26461fb.svg" />
+      <a href="https://wakatime.com/@y4_5H0"> 
+        <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/17d27a74-0c09-43e8-bf14-18f65aaae0c4.svg" />
       </a>
-      <a href="https://wakatime.com/@y4_5H0">
-        <img alt="Languages Used" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
+      <a href="https://wakatime.com/@y4_5H0"> 
+        <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
       </a>
     </p>
     <p align="center">
-      <a href="https://wakatime.com/@y4_5H0">
-        <img alt="Editors Used" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" />
+      <a href="https://wakatime.com/@y4_5H0"> 
+        <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" />
       </a>
-      <a href="https://wakatime.com/@y4_5H0">
-        <img alt="Operating Systems" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
+      <a href="https://wakatime.com/@y4_5H0"> 
+        <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
       </a>
     </p>
   </details>
-</details>
 
 
----
 
 ### 👁️‍🗨️ Visitors
 
