@@ -47,7 +47,7 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
     </p>
     <p align="center">
       <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" />
+        <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/9eab5de5-7f4f-4a80-9865-27ffa204d627.svg" />
       </a>
       <a href="https://wakatime.com/@y4_5H0"> 
         <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
