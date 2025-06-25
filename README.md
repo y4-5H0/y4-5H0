@@ -50,7 +50,7 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
         <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/9eab5de5-7f4f-4a80-9865-27ffa204d627.svg" />
       </a>
       <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
+        <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4fd41594-0bad-4c05-b62d-2f0df65f3f5b.svg" />
       </a>
     </p>
   </details>
