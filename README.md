@@ -35,25 +35,24 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
 
 <details>
   <summary><b>⏱️ WakaTime Stats</b></summary>
-  <details>
-    <summary>WakaGraphs</summary>
-    <p align="center">
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/3930ba6b-9153-4426-82eb-9c48ac68b0f1.svg" />
-      </a>
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/169f2d72-51b9-4783-8d7f-556d3d5ba41b.svg" />
-      </a>
-    </p>
-    <p align="center">
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/9eab5de5-7f4f-4a80-9865-27ffa204d627.svg" />
-      </a>
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4fd41594-0bad-4c05-b62d-2f0df65f3f5b.svg" />
-      </a>
-    </p>
-  </details>
+  <p align="center">
+    <a href="https://wakatime.com/@y4_5H0"> 
+      <img alt="waka/coding" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/3930ba6b-9153-4426-82eb-9c48ac68b0f1.svg" />
+    </a>
+    <a href="https://wakatime.com/@y4_5H0"> 
+      <img alt="waka/languages" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/169f2d72-51b9-4783-8d7f-556d3d5ba41b.svg" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://wakatime.com/@y4_5H0"> 
+      <img alt="waka/editors" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/9eab5de5-7f4f-4a80-9865-27ffa204d627.svg" />
+    </a>
+    <a href="https://wakatime.com/@y4_5H0"> 
+      <img alt="waka/os" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4fd41594-0bad-4c05-b62d-2f0df65f3f5b.svg" />
+    </a>
+  </p>
+</details>
+
 
 
 
