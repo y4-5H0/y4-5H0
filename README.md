@@ -1,53 +1,63 @@
-<p align="center"><a href="https://github.com/y4-5H0"><img src="https://avatars.githubusercontent.com/u/160359868" width="225" height="225" alt="OmniTotal"></a></p>
-<b><p align="center">There are Infinite Possibilities<br>Choose One and Run!</p></b>
-
-### Contact:
-* y4-5H0 is Always Open For Any Suggestion or Help. <a href="mailto: n1n7u70@duck.com"> Mail! </a>
-
-
-<!-- ## Profile Status:
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&show_icons=true&locale=en&layout=compact&theme=algolia)](https://github.com/y4-5H0)
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=y4-5H0&show_icons=true&locale=en&theme=algolia)](https://github.com/y4-5H0) -->
-
-
-
-  <summary><b>Github Stats</b></summary>
+<p align="center">
   <a href="https://github.com/y4-5H0">
-    <img alt="y4-5H0/graph" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true">
+    <img src="https://avatars.githubusercontent.com/u/160359868" width="225" height="225" alt="OmniTotal">
   </a>
-  <a href="https://github.com/y4-5H0">
-    <img alt="y4-5H0/stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
-  </a>
-  <a href="https://github.com/search?q=user:y4-5H0&type=code">
-    <img alt="y4-5H0/languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
-  </a>
-  <a href="https://github.com/search?q=author:y4-5H0&type=commits">
-    <img alt="y4-5H0/streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=y4-5H0&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
-  </a>
+</p>
+
+<h2 align="center"><b>There are Infinite Possibilities —<br>Choose One and Run!</b></h2>
+
+---
+
+### 📬 Contact
+Feel free to reach out for suggestions, collaborations, or just to say hi!  
+📧 <a href="mailto:n1n7u70@duck.com">n1n7u70@duck.com</a>
+
+---
 
 <details>
-  <summary><b>WakaTime Stats</b></summary>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br>
+  <a href="https://github.com/y4-5H0">
+    <img alt="GitHub Profile Details" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true">
+  </a>
+  <a href="https://github.com/y4-5H0">
+    <img alt="GitHub Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  </a>
+  <a href="https://github.com/search?q=user:y4-5H0&type=code">
+    <img alt="Top Languages" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=y4-5H0&count_private=true&theme=github_dark&hide_border=true&title_color=2EB398&show_icons=true&layout=compact">
+  </a>
+  <a href="https://github.com/search?q=author:y4-5H0&type=commits">
+    <img alt="GitHub Streak" width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=y4-5H0&theme=github-dark&hide_border=true&stroke=718F97&ring=2EB398&fire=2EB398&currStreakNum=C6CDCB&sideNums=C6CDCB&currStreakLabel=2EB398&sideLabels=C6CDCB&dates=C6CDCB">
+  </a>
+</details>
+
+---
+
+<details>
+  <summary><b>⏱️ WakaTime Stats</b></summary>
   <details>
-    <summary>WakaGraphs</summary>
+    <summary>📈 WakaGraphs</summary>
     <p align="center">
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/coding" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c05f3e90-003d-4821-a573-5f387fe1954a.svg" />
+      <a href="https://wakatime.com/@y4_5H0">
+        <img alt="Coding Activity" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c05f3e90-003d-4821-a573-5f387fe1954a.svg" />
       </a>
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/languages" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
+      <a href="https://wakatime.com/@y4_5H0">
+        <img alt="Languages Used" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
       </a>
     </p>
     <p align="center">
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/editors" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" />
+      <a href="https://wakatime.com/@y4_5H0">
+        <img alt="Editors Used" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c2572c82-cd4e-4d48-af7b-4ce0cb752fe5.svg" />
       </a>
-      <a href="https://wakatime.com/@y4_5H0"> 
-        <img alt="waka/os" align="center" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
+      <a href="https://wakatime.com/@y4_5H0">
+        <img alt="Operating Systems" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/4f0edd2c-7a2d-4afe-8ac6-fa54c8f60eb2.svg" />
       </a>
     </p>
   </details>
+</details>
 
+---
 
-<h3>Visitors : </h3>
-<br>
-<img src="https://profile-counter.glitch.me/y4-5H0/count.svg" alt="Visitors">
+### 👁️‍🗨️ Visitors
+
+<img src="https://profile-counter.glitch.me/y4-5H0/count.svg" alt="Visitor Count">
