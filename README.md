@@ -39,7 +39,7 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
     <summary>📈 WakaGraphs</summary>
     <p align="center">
       <a href="https://wakatime.com/@y4_5H0">
-        <img alt="Coding Activity" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/c05f3e90-003d-4821-a573-5f387fe1954a.svg" />
+        <img alt="Coding Activity" width="400" height="300" src="https://wakatime.com/badge/user/5ef1dd4a-b32a-4e42-898a-542ce26461fb.svg" />
       </a>
       <a href="https://wakatime.com/@y4_5H0">
         <img alt="Languages Used" width="400" height="300" src="https://wakatime.com/share/@y4_5H0/202515c2-e4b0-4a74-84aa-0a18df3ab1d1.svg" />
@@ -55,6 +55,7 @@ Feel free to reach out for suggestions, collaborations, or just to say hi!
     </p>
   </details>
 </details>
+
 
 ---
 
